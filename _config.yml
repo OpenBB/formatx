@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme
 
 title: FormatX
-description: Format Source code in Xcode
+description: Format Source code
